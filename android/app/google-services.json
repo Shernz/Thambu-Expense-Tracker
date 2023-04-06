@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "327683009621",
+    "project_id": "expense-tracker-88ff2",
+    "storage_bucket": "expense-tracker-88ff2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327683009621:android:a9ed15972b2424eaf2b8dc",
+        "android_client_info": {
+          "package_name": "com.expensetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327683009621-6fl76rchu6659r4e1ue7p44aojmbs1ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlycR8dpUsngTYmUXG36WIYtjrDeEg0Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327683009621-6fl76rchu6659r4e1ue7p44aojmbs1ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327683009621:android:6e589729b65a7ab5f2b8dc",
+        "android_client_info": {
+          "package_name": "com.thambuexpensetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327683009621-j35id3mj4bo0c8iehbp445a523okuvf2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thambuexpensetracker",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "327683009621-6fl76rchu6659r4e1ue7p44aojmbs1ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlycR8dpUsngTYmUXG36WIYtjrDeEg0Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327683009621-6fl76rchu6659r4e1ue7p44aojmbs1ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
